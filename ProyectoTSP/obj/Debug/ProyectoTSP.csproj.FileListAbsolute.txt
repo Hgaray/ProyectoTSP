@@ -1,0 +1,190 @@
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\bin\Debug\ProyectoTSP.exe.config
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\bin\Debug\ProyectoTSP.exe
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\bin\Debug\ProyectoTSP.pdb
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.Properties.Resources.resources
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.csproj.GenerateResource.cache
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.exe
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.pdb
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.FormPrincipal.resources
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.BaseDeDatos.resources
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\bin\Debug\Excel.dll
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.csproj.CopyComplete
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.csprojAssemblyReference.cache
+C:\Users\Jorge Manrique\Documents\TrabGrad VSC#\ProyectoTSP\ProyectoTSP\obj\Debug\ProyectoTSP.csproj.App.config
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.BaseDeDatos.resources
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.FormPrincipal.resources
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.Properties.Resources.resources
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.GenerateResource.cache
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.CoreCompileInputs.cache
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\ProyectoTSP.exe.config
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\ProyectoTSP.exe
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\ProyectoTSP.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\Excel.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\GeoAPI.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\Itinero.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\Itinero.IO.Osm.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\OsmSharp.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\protobuf-net.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\Reminiscence.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\System.Buffers.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\System.Memory.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\GeoAPI.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\GeoAPI.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\protobuf-net.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\System.Memory.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.CopyComplete
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.exe
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csprojAssemblyReference.cache
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\GMap.NET.Core.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\Itinero.IO.Osm.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\Itinero.pdb
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Garay\Documents\ProyectoTSP - copia-20190706T201628Z-001\ProyectoTSP - copia\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csprojAssemblyReference.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.BaseDeDatos.resources
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.FormPrincipal.resources
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.Properties.Resources.resources
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.GenerateResource.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.CoreCompileInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.exe
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\ProyectoTSP.exe.config
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\ProyectoTSP.exe
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\ProyectoTSP.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Excel.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\GMap.NET.Core.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.Geo.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.IO.Osm.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.IO.Shape.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\OsmSharp.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\protobuf-net.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Reminiscence.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\System.Buffers.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\System.Memory.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.Geo.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.IO.Osm.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.IO.Shape.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\protobuf-net.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\System.Memory.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\ProyectoTSP.exe.config
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\ProyectoTSP.exe
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\ProyectoTSP.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Excel.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\GMap.NET.Core.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\GMap.NET.WindowsForms.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.Geo.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.IO.Osm.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.IO.Shape.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Newtonsoft.Json.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\OsmSharp.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\protobuf-net.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Reminiscence.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\System.Buffers.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\System.Memory.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\System.Numerics.Vectors.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.Geo.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.IO.Osm.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.IO.Shape.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\GeoAPI.CoordinateSystems.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.CoordinateSystems.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.pdb
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.Features.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\Newtonsoft.Json.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\protobuf-net.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\System.Memory.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\System.Numerics.Vectors.xml
+G:\MapasDb\ProyectoTSP - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csprojAssemblyReference.cache
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.BaseDeDatos.resources
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.FormPrincipal.resources
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.Properties.Resources.resources
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.GenerateResource.cache
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.CoreCompileInputs.cache
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.exe
+G:\MapasDb\ProyectoTSP - copia\obj\Debug\ProyectoTSP.pdb

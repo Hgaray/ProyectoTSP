@@ -1,0 +1,48 @@
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.IO.Osm.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.IO.Osm.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\System.Net.Http.Extensions.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\System.Net.Http.Primitives.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\OsmSharp.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\protobuf-net.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\Reminiscence.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csprojAssemblyReference.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csproj.CoreCompileInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.AssemblyInfoInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.AssemblyInfo.cs
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csproj.CopyComplete
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csprojAssemblyReference.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csproj.CoreCompileInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.AssemblyInfoInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.AssemblyInfo.cs
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.IO.Osm.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.IO.Osm.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\System.Net.Http.Extensions.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\System.Net.Http.Primitives.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\OsmSharp.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\protobuf-net.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Reminiscence.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.IO.Osm.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.IO.Osm.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\System.Net.Http.Extensions.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\System.Net.Http.Primitives.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\OsmSharp.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\protobuf-net.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Reminiscence.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\net45\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csprojAssemblyReference.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csproj.CoreCompileInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.AssemblyInfoInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.AssemblyInfo.cs
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\net45\Itinero.IO.Osm.pdb

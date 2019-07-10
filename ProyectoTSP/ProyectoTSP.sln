@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoTSP", "ProyectoTSP.csproj", "{BCA2C7CD-5773-41BB-80F2-7CA246C4FC10}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5C77E657-166B-4708-AFEF-444665006B5E} = {5C77E657-166B-4708-AFEF-444665006B5E}
+		{5F7F1F95-821F-4526-8E17-2BAF71F39D5A} = {5F7F1F95-821F-4526-8E17-2BAF71F39D5A}
+		{F648A7AE-01CA-4020-829A-BADFECA6A97D} = {F648A7AE-01CA-4020-829A-BADFECA6A97D}
+		{73C567D9-737D-4D1E-AB3D-D583891EBE5E} = {73C567D9-737D-4D1E-AB3D-D583891EBE5E}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itinero", "src\Itinero\Itinero.csproj", "{5C77E657-166B-4708-AFEF-444665006B5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itinero.Geo", "src\Itinero.Geo\Itinero.Geo.csproj", "{73C567D9-737D-4D1E-AB3D-D583891EBE5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itinero.IO.Osm", "src\Itinero.IO.Osm\Itinero.IO.Osm.csproj", "{F648A7AE-01CA-4020-829A-BADFECA6A97D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itinero.IO.Shape", "src\Itinero.IO.Shape\Itinero.IO.Shape.csproj", "{5F7F1F95-821F-4526-8E17-2BAF71F39D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA2C7CD-5773-41BB-80F2-7CA246C4FC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA2C7CD-5773-41BB-80F2-7CA246C4FC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA2C7CD-5773-41BB-80F2-7CA246C4FC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA2C7CD-5773-41BB-80F2-7CA246C4FC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C77E657-166B-4708-AFEF-444665006B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C77E657-166B-4708-AFEF-444665006B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C77E657-166B-4708-AFEF-444665006B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C77E657-166B-4708-AFEF-444665006B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C567D9-737D-4D1E-AB3D-D583891EBE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C567D9-737D-4D1E-AB3D-D583891EBE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C567D9-737D-4D1E-AB3D-D583891EBE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C567D9-737D-4D1E-AB3D-D583891EBE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F648A7AE-01CA-4020-829A-BADFECA6A97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F648A7AE-01CA-4020-829A-BADFECA6A97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F648A7AE-01CA-4020-829A-BADFECA6A97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F648A7AE-01CA-4020-829A-BADFECA6A97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7F1F95-821F-4526-8E17-2BAF71F39D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7F1F95-821F-4526-8E17-2BAF71F39D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7F1F95-821F-4526-8E17-2BAF71F39D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7F1F95-821F-4526-8E17-2BAF71F39D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C285D7-7A89-4B64-981A-D3851D942325}
+	EndGlobalSection
+EndGlobal

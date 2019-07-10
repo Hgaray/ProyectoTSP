@@ -1,0 +1,36 @@
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.deps.json
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csprojAssemblyReference.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csproj.CoreCompileInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.AssemblyInfoInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.AssemblyInfo.cs
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csproj.CopyComplete
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.deps.json
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csprojAssemblyReference.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csproj.CoreCompileInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.AssemblyInfoInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.AssemblyInfo.cs
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csproj.CopyComplete
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.deps.json
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.Geo.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\netstandard1.3\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csprojAssemblyReference.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csproj.CoreCompileInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.AssemblyInfoInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.AssemblyInfo.cs
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard1.3\Itinero.Geo.pdb

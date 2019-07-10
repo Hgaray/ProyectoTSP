@@ -1,0 +1,36 @@
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.deps.json
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csprojAssemblyReference.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CoreCompileInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.AssemblyInfoInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.AssemblyInfo.cs
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CopyComplete
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csprojAssemblyReference.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CoreCompileInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.AssemblyInfoInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.AssemblyInfo.cs
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.deps.json
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.deps.json
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csprojAssemblyReference.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CoreCompileInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.AssemblyInfoInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.AssemblyInfo.cs
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.pdb

@@ -1,0 +1,26 @@
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\bin\Debug\netstandard2.0\Itinero.deps.json
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\bin\Debug\netstandard2.0\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\bin\Debug\netstandard2.0\Itinero.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\netstandard2.0\Itinero.csprojAssemblyReference.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\netstandard2.0\Itinero.csproj.CoreCompileInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\netstandard2.0\Itinero.AssemblyInfoInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\netstandard2.0\Itinero.AssemblyInfo.cs
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\netstandard2.0\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\netstandard2.0\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\netstandard2.0\Itinero.deps.json
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\netstandard2.0\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\netstandard2.0\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.csproj.CoreCompileInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.AssemblyInfoInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.AssemblyInfo.cs
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\netstandard2.0\Itinero.deps.json
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\netstandard2.0\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\netstandard2.0\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.csprojAssemblyReference.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.csproj.CoreCompileInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.AssemblyInfoInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.AssemblyInfo.cs
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard2.0\Itinero.pdb

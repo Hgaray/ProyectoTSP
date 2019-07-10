@@ -1,0 +1,66 @@
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.IO.Shape.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.IO.Shape.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\GeoAPI.CoordinateSystems.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\GeoAPI.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.CoordinateSystems.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.Features.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.GeoTools.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\Reminiscence.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.Geo.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.Geo.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csprojAssemblyReference.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CoreCompileInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.AssemblyInfoInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.AssemblyInfo.cs
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CopyComplete
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csprojAssemblyReference.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CoreCompileInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.AssemblyInfoInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.AssemblyInfo.cs
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.IO.Shape.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.IO.Shape.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\GeoAPI.CoordinateSystems.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\GeoAPI.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.CoordinateSystems.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.Features.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.GeoTools.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.ShapeFile.Extended.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.ShapeFile.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Reminiscence.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.Geo.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.Geo.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.IO.Shape.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.IO.Shape.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\GeoAPI.CoordinateSystems.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\GeoAPI.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.CoordinateSystems.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.Features.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.GeoTools.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.ShapeFile.Extended.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.ShapeFile.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Reminiscence.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.Geo.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.Geo.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csprojAssemblyReference.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CoreCompileInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.AssemblyInfoInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.AssemblyInfo.cs
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.pdb

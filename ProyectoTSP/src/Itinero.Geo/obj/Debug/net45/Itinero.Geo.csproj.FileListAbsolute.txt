@@ -1,0 +1,51 @@
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\Itinero.Geo.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\Itinero.Geo.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\GeoAPI.CoordinateSystems.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\GeoAPI.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.CoordinateSystems.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.Features.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\Reminiscence.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\bin\Debug\net45\Itinero.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csprojAssemblyReference.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csproj.CoreCompileInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.AssemblyInfoInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.AssemblyInfo.cs
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csproj.CopyComplete
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csprojAssemblyReference.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csproj.CoreCompileInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.AssemblyInfoInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.AssemblyInfo.cs
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Itinero.Geo.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Itinero.Geo.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\GeoAPI.CoordinateSystems.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\GeoAPI.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.CoordinateSystems.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.Features.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Reminiscence.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Itinero.Geo.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Itinero.Geo.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\GeoAPI.CoordinateSystems.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\GeoAPI.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.CoordinateSystems.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\NetTopologySuite.Features.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Reminiscence.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\bin\Debug\net45\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csprojAssemblyReference.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csproj.CoreCompileInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.AssemblyInfoInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.AssemblyInfo.cs
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\net45\Itinero.Geo.pdb

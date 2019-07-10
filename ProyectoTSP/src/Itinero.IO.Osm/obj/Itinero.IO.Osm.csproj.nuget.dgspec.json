@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.IO.Osm\\Itinero.IO.Osm.csproj": {}
+  },
+  "projects": {
+    "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.IO.Osm\\Itinero.IO.Osm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.IO.Osm\\Itinero.IO.Osm.csproj",
+        "projectName": "Itinero.IO.Osm",
+        "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.IO.Osm\\Itinero.IO.Osm.csproj",
+        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
+        "outputPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.IO.Osm\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45",
+          "netstandard1.6",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj": {
+                "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj"
+              }
+            }
+          },
+          "netstandard1.6": {
+            "projectReferences": {
+              "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj": {
+                "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "projectReferences": {
+              "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj": {
+                "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Microsoft.Net.Http": {
+              "target": "Package",
+              "version": "[2.2.29, )"
+            },
+            "OsmSharp": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          }
+        },
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "OsmSharp": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "System.Xml.XmlSerializer": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ]
+        },
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "OsmSharp": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj",
+        "projectName": "Itinero",
+        "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj",
+        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
+        "outputPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45",
+          "netstandard1.3",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          },
+          "netstandard1.3": {
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Reminiscence": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          }
+        },
+        "netstandard1.3": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Reminiscence": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "System.Reflection.TypeExtensions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Xml.XmlSerializer": {
+              "target": "Package",
+              "version": "[4.0.11, )"
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ]
+        },
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Reminiscence": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

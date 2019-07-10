@@ -1,0 +1,28 @@
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\bin\Debug\net45\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\bin\Debug\net45\Itinero.pdb
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\bin\Debug\net45\Reminiscence.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\net45\Itinero.csprojAssemblyReference.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\net45\Itinero.csproj.CoreCompileInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\net45\Itinero.AssemblyInfoInputs.cache
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\net45\Itinero.AssemblyInfo.cs
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\net45\Itinero.csproj.CopyComplete
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\net45\Itinero.dll
+C:\Users\hgaray\Downloads\routing-develop\src\Itinero\obj\Debug\net45\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.csproj.CoreCompileInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.AssemblyInfoInputs.cache
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.AssemblyInfo.cs
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\net45\Itinero.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\net45\Itinero.pdb
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\net45\Reminiscence.dll
+D:\Documents\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\net45\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\net45\Itinero.pdb
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\bin\Debug\net45\Reminiscence.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.csproj.CoreCompileInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.AssemblyInfoInputs.cache
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.AssemblyInfo.cs
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.csproj.CopyComplete
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.dll
+G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\net45\Itinero.pdb
