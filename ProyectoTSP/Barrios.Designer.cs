@@ -40,12 +40,12 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(52, 78);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(618, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(591, 360);
             this.dataGridView1.TabIndex = 0;
             // 
             // btnLoadFile
             // 
-            this.btnLoadFile.Location = new System.Drawing.Point(207, 49);
+            this.btnLoadFile.Location = new System.Drawing.Point(101, 49);
             this.btnLoadFile.Name = "btnLoadFile";
             this.btnLoadFile.Size = new System.Drawing.Size(75, 23);
             this.btnLoadFile.TabIndex = 1;
@@ -66,7 +66,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.SystemColors.Window;
+            this.ClientSize = new System.Drawing.Size(659, 450);
             this.Controls.Add(this.cbxComunas);
             this.Controls.Add(this.btnLoadFile);
             this.Controls.Add(this.dataGridView1);

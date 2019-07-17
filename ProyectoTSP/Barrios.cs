@@ -36,10 +36,9 @@ namespace ProyectoTSP
                 {
                     if (ofd.ShowDialog() == DialogResult.OK)
                     {
-                        barriosList = new List<BarriosDto>();
-                        dataGridView1.DataSource = barriosList;
-                        comunasList = new List<string>();
-                        cbxComunas.DataSource = comunasList;
+                        
+                        dataGridView1.Refresh();                        
+                        cbxComunas.Refresh();
 
                         FileStream fs = File.Open(ofd.FileName, FileMode.Open, FileAccess.Read);
                         IExcelDataReader reader;
@@ -56,7 +55,8 @@ namespace ProyectoTSP
 
 
 
-                       
+                        barriosList = new List<BarriosDto>();
+                        comunasList = new List<string>();
 
                         foreach (DataRow dr in dsBarrios.Tables[0].Rows)
                         {
@@ -74,7 +74,7 @@ namespace ProyectoTSP
                         comunasList = barriosList.Select(x => x.Comuna).ToList();
 
                         comunasList.Insert(0,"Todos");
-                        cbxComunas.DataSource = comunasList;
+                        cbxComunas.DataSource = comunasList.Distinct().ToList();
                         
 
                         dataGridView1.DataSource = barriosList;
