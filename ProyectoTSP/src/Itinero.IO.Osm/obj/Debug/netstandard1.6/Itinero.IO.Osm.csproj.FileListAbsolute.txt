@@ -34,3 +34,15 @@ G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itine
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CopyComplete
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.dll
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.deps.json
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.IO.Osm.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\bin\Debug\netstandard1.6\Itinero.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csprojAssemblyReference.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CoreCompileInputs.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.AssemblyInfoInputs.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.AssemblyInfo.cs
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.csproj.CopyComplete
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Osm\obj\Debug\netstandard1.6\Itinero.IO.Osm.pdb

@@ -112,6 +112,11 @@ private void BtnRestaurar_Click(object sender, EventArgs e)
             AbrirFormulario<BaseDeDatos>();
         }
 
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            AbrirFormulario<Barrios>();
+        }
+
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
         #endregion

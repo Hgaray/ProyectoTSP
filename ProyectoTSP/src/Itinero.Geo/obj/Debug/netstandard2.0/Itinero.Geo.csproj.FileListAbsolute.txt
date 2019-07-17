@@ -34,3 +34,15 @@ G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.csproj.CopyComplete
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.dll
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\bin\Debug\netstandard2.0\Itinero.Geo.deps.json
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\bin\Debug\netstandard2.0\Itinero.Geo.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\bin\Debug\netstandard2.0\Itinero.Geo.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\bin\Debug\netstandard2.0\Itinero.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\bin\Debug\netstandard2.0\Itinero.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.csprojAssemblyReference.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.csproj.CoreCompileInputs.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.AssemblyInfoInputs.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.AssemblyInfo.cs
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.csproj.CopyComplete
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.Geo\obj\Debug\netstandard2.0\Itinero.Geo.pdb

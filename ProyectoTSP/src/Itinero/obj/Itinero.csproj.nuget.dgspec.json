@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj": {}
+    "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero\\Itinero.csproj": {}
   },
   "projects": {
-    "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj": {
+    "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero\\Itinero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj",
+        "projectUniqueName": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero\\Itinero.csproj",
         "projectName": "Itinero",
-        "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj",
-        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-        "outputPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\obj\\",
+        "projectPath": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero\\Itinero.csproj",
+        "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+        "outputPath": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

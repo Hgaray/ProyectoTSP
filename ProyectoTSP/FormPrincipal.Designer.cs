@@ -37,6 +37,7 @@
             this.btnMinimizar = new System.Windows.Forms.PictureBox();
             this.btnMaximizar = new System.Windows.Forms.PictureBox();
             this.btnCerrar = new System.Windows.Forms.PictureBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.panelFormularios.SuspendLayout();
             this.panelMenu.SuspendLayout();
             this.panelBarraTitulo.SuspendLayout();
@@ -60,6 +61,7 @@
             // panelMenu
             // 
             this.panelMenu.BackColor = System.Drawing.Color.Navy;
+            this.panelMenu.Controls.Add(this.button2);
             this.panelMenu.Controls.Add(this.button1);
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 30);
@@ -140,6 +142,16 @@
             this.btnCerrar.TabStop = false;
             this.btnCerrar.Click += new System.EventHandler(this.PictureBox1_Click);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(82, 194);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "Barrios";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
+            // 
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -170,6 +182,7 @@
         private System.Windows.Forms.PictureBox btnMinimizar;
         private System.Windows.Forms.PictureBox btnMaximizar;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
 

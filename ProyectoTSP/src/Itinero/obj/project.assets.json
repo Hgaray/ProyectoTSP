@@ -1286,7 +1286,7 @@
       ]
     },
     "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "LdIvj7Bi2jiaNTqY/ezZGVXHe1KI5fjLSI026O1TjVzsmdgTP/zTF+f3nwHCjwttyhsPBEiswv0PekimPWZwWg==",
+      "sha512": "c3YNH1GQJbfIPJeCnr4avseugSqPrxwIqzthYyZDN6EuOyNOzq+y2KSUfRcXauya1sF4foESTgwM5e1A8arAKw==",
       "type": "package",
       "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -1312,7 +1312,7 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
-      "sha512": "b+V9JC/Ii3sR659flBeaBJww111425tgjcDS1k+hqV4sGh9FALRDBvJnDtQ895gAzpPTUOFDHdqaZ2Et7BpZMg==",
+      "sha512": "INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
       "type": "package",
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
@@ -1391,7 +1391,7 @@
       ]
     },
     "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "JGc0pAWRE8lB4Ucygk2pYSKbUPLlAIq6Bczf5/WF2D/VKJEPtYlVUMxk8fbl1zRfTWzSHi+VcFZlaPlWiNxeKg==",
+      "sha512": "ytoewC6wGorL7KoCAvRfsgoJPJbNq+64k2SqW6JcOAebWsFUvCCYgfzQMrnpvPiEl4OrblUlhF2ji+Q1+SVLrQ==",
       "type": "package",
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -4293,18 +4293,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Garay\\.nuget\\packages\\": {},
+    "C:\\Users\\hgaray\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj",
+      "projectUniqueName": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero\\Itinero.csproj",
       "projectName": "Itinero",
-      "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\Itinero.csproj",
-      "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-      "outputPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero\\obj\\",
+      "projectPath": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero\\Itinero.csproj",
+      "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+      "outputPath": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -4312,7 +4312,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

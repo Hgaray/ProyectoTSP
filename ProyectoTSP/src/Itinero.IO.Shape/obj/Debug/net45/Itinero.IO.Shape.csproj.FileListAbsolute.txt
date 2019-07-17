@@ -64,3 +64,25 @@ G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.S
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CopyComplete
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.dll
 G:\MapasDb\ProyectoTSP - copia\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.IO.Shape.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.IO.Shape.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\GeoAPI.CoordinateSystems.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\GeoAPI.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.CoordinateSystems.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.Features.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.GeoTools.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.ShapeFile.Extended.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\NetTopologySuite.IO.ShapeFile.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\Reminiscence.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.Geo.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.Geo.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\bin\Debug\net45\Itinero.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csprojAssemblyReference.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CoreCompileInputs.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.AssemblyInfoInputs.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.AssemblyInfo.cs
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.csproj.CopyComplete
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero.IO.Shape\obj\Debug\net45\Itinero.IO.Shape.pdb

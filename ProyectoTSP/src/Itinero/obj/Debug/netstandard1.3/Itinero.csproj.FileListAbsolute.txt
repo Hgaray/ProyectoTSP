@@ -24,3 +24,12 @@ G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard1.3\Itinero.Asse
 G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard1.3\Itinero.AssemblyInfo.cs
 G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard1.3\Itinero.dll
 G:\MapasDb\ProyectoTSP - copia\src\Itinero\obj\Debug\netstandard1.3\Itinero.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\bin\Debug\netstandard1.3\Itinero.deps.json
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\bin\Debug\netstandard1.3\Itinero.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\bin\Debug\netstandard1.3\Itinero.pdb
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\obj\Debug\netstandard1.3\Itinero.csprojAssemblyReference.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\obj\Debug\netstandard1.3\Itinero.csproj.CoreCompileInputs.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\obj\Debug\netstandard1.3\Itinero.AssemblyInfoInputs.cache
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\obj\Debug\netstandard1.3\Itinero.AssemblyInfo.cs
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\obj\Debug\netstandard1.3\Itinero.dll
+D:\PruebasConcepto\Stp\ProyectoTSP\ProyectoTSP\src\Itinero\obj\Debug\netstandard1.3\Itinero.pdb

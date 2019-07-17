@@ -1287,7 +1287,7 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.4.0": {
-      "sha512": "6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
+      "sha512": "epF1P00AFbqPy5jZx3fpEn5qwlBDZ+dck71xYc/jLibfY6BtoFKOqoj84YHcQWV9HcWb7M13aVJ61XCdK8/3XA==",
       "type": "package",
       "path": "system.text.encoding.codepages/4.4.0",
       "files": [
@@ -1357,18 +1357,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Garay\\.nuget\\packages\\": {},
+    "C:\\Users\\hgaray\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.IO.Shape\\Itinero.IO.Shape.csproj",
+      "projectUniqueName": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero.IO.Shape\\Itinero.IO.Shape.csproj",
       "projectName": "Itinero.IO.Shape",
-      "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.IO.Shape\\Itinero.IO.Shape.csproj",
-      "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-      "outputPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.IO.Shape\\obj\\",
+      "projectPath": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero.IO.Shape\\Itinero.IO.Shape.csproj",
+      "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+      "outputPath": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero.IO.Shape\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -1376,7 +1376,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1391,15 +1391,15 @@
       "frameworks": {
         "net45": {
           "projectReferences": {
-            "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.Geo\\Itinero.Geo.csproj": {
-              "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.Geo\\Itinero.Geo.csproj"
+            "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero.Geo\\Itinero.Geo.csproj": {
+              "projectPath": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero.Geo\\Itinero.Geo.csproj"
             }
           }
         },
         "netstandard2.0": {
           "projectReferences": {
-            "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.Geo\\Itinero.Geo.csproj": {
-              "projectPath": "G:\\MapasDb\\ProyectoTSP - copia\\src\\Itinero.Geo\\Itinero.Geo.csproj"
+            "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero.Geo\\Itinero.Geo.csproj": {
+              "projectPath": "D:\\PruebasConcepto\\Stp\\ProyectoTSP\\ProyectoTSP\\src\\Itinero.Geo\\Itinero.Geo.csproj"
             }
           }
         }
